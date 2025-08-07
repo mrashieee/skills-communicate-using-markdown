@@ -9,3 +9,8 @@ uhhhh is this a commit msg?
 ``` python
 print("Hello fuckers")
 ```
+
+# To Do List after this shi
+- [ ] learrn python?
+- [ ] learn c
+- [ ] box box
